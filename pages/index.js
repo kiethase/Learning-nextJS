@@ -25,7 +25,7 @@ export default function Home({ allPostsData,yasuo }) {
         <p>{yasuo}</p>
         <Link href="/posts/first-post"> First post</Link>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (This is a sample website - you’ll be building a site like this on Yeah{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
 
